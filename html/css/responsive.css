@@ -1,0 +1,419 @@
+@media (min-width: 1200px){
+
+}
+
+@media (max-width: 1199px){
+.main-banner-detail {
+    padding: 12px 50px 27px 20px;
+}
+.main-banner-inner .main-banner-detail h1 {
+    line-height: 41px;
+    margin-bottom: 16px;
+    font-size: 34px;
+}
+.main-banner-inner .main-banner-detail p.main-banner-text {
+	margin-bottom: 25px;
+}
+.btn {
+    padding: 9px 38px;
+}
+.sub-banner-desc {
+    margin-bottom: 14px;
+}
+.blog-desc {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.footer-logo {
+	margin: 0px;
+}
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px){
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+}
+
+@media (max-width: 991px){
+.bottom-header.header-fixed{
+	display: none;
+}
+.side-toggle-menu{
+	display: block;
+}
+.mheader-right-side{
+	position: relative;
+	padding-right: 55px;
+}
+.collapse{
+	display: none;
+}
+.navbar-collapse.menu-open {
+    left: 0;
+}
+.menu-open.collapse{
+	display: block;
+}
+.navbar-collapse {
+    background: #f04780 none repeat scroll 0 0;
+    border-bottom: 0 none;
+    bottom: 0;
+    box-shadow: 0 0 1px rgba(0, 0, 0, 0.2);
+    display: inline-block !important;
+    height: 100% !important;
+    left: -250px;
+    margin: 0 !important;
+    position: fixed !important;
+    top: 0 !important;
+    transition: all 0.4s ease 0s;
+    width: 250px;
+    z-index: 2;
+}
+#menu span.opener {
+    background: rgba(0, 0, 0, 0) url("../images/sprite.png") no-repeat scroll 0 0;
+    cursor: pointer;
+    display: inline-block;
+    height: 25px;
+    position: absolute;
+    right: 0;
+    width: 25px;
+    z-index: 1;
+}
+#menu span.plus {
+    background-position: -94px -167px;
+}
+#menu span.minus {
+	background-position: -133px -166px;
+}
+#menu .level {
+    position: relative;
+}
+.nav-main .nav > li {
+    display: inline-block;
+    float: none;
+    width: 100%;
+}
+.nav > li > a {
+	padding: 5px 23px;
+}
+.btn {
+    font-size: 14px;
+    padding: 9px 24px;
+}
+.main-banner-inner .main-banner-detail h1 {
+    font-size: 25px;
+    line-height: 30px;
+    margin-bottom: 7px;
+}
+.main-banner-inner .main-banner-detail p.main-banner-text {
+    margin-bottom: 15px;
+}
+.main-banner-detail {
+    padding: 12px 50px 17px 18px;
+}
+.sub-banner {
+    display: inline-block;
+    margin-bottom: 20px;
+    max-width: 100%;
+}
+.product-hover{
+	bottom: 0px;
+}
+.paralex-img {
+    padding-top: 161px;
+}
+.paralex-detail {
+    padding: 115px 0;
+}
+.feature-sub {
+    margin-bottom: 20px;
+    display: inline-block;
+    border: none;
+}
+.feature-border{
+	border-bottom: 2px solid #f04780;
+	text-align: center;
+	margin-bottom: 33px;
+}
+.feature-border:last-child{
+	margin-bottom: 0px;
+}
+.feature-sub-icon{
+ 	float: left;
+ 	margin-bottom: 0px;
+}
+.feature-sub-detail{
+	float: left;
+	padding: 20px 0px 0px 20px;
+	text-align: left;
+}
+.blog-sub {
+	display: inline-block;
+}
+.blog .text-center{
+	margin-bottom: 20px;
+}
+.blog .text-center:last-child{
+	margin-bottom: 0px;
+}
+.nav > li:hover .dropdown-content{
+	display: none;
+}
+.nav > li:hover {
+    background-color: transparent;
+}
+.nav > li:hover a{
+    color: #242424;
+}
+.sidebar-box .sidebar-contant {
+	display: block !important;
+}
+ul.dropdown-content{
+	position: relative;
+	top: auto;
+	bottom: auto;
+	right: auto;
+	left: auto;
+	background: transparent;
+	width: 100%;
+	padding: 0px 20px;
+}
+ul.dropdown-content li {
+    display: block;
+    padding: 4px;
+}
+ul.dropdown-content li:hover{
+	background-color: transparent;
+}
+ul.dropdown-content li:hover a{
+	color: #ffffff;
+}
+.search-button input {
+    width: 250px;
+    opacity: 1;
+}
+}
+
+@media (max-width: 767px){
+.right-side.top-header-side ul li{
+	font-size: 0px;
+}
+.top-header-side ul li a span {
+	margin: 0px;
+}
+.top-header-side ul li {
+    padding: 0 11px;
+}
+.main-banner-detail a{
+	display: none;
+}
+.main-banner-inner .main-banner-detail p.main-banner-text {
+    margin-bottom: 0px;
+}
+.ptb-70{
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+.pt-70{
+	padding-top: 45px;
+}
+.pb-70{
+	padding-bottom: 45px;
+}
+.heading {
+    margin-bottom: 20px;
+}
+.paralex-img {
+    padding-top: 65px;
+}
+.paralex-detail {
+    padding: 0 0 65px;
+}
+.mobile-search-button{
+	display: block;
+	padding-right: 40px;
+	position: relative;
+	margin-bottom: 35px;
+}
+.search-button{
+	display: none;
+}
+.mobile-search-button input{
+	border: 1px solid #e7e7e7;
+	width: 100%;
+	height: 40px;
+	border-radius: 3px 0px 0px 3px;
+	border-right: none;
+	padding: 6px;
+}
+.bottom-header {
+	background-color: transparent;
+}
+.mobile-search-button span.search{
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	background: url(../images/sprite.png) no-repeat scroll #f04780;
+	background-position: -3px -63px;
+	border-radius: 0px 3px 3px 0px;
+	transition:all 0.4s ease 0s;
+	-moz-transition:all 0.4s ease 0s;
+	-o-transition:all 0.4s ease 0s;
+	-webkit-transition:all 0.4s ease 0s;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.footer-logo {
+	border: none;
+}
+.footer-logo-desc{
+	text-align: center;
+}
+.footer-bottom1-sicons{
+	display: inline-block;
+}
+.payment-card {
+    float: none;
+    margin-top: 15px;
+}
+.footer-link-sub{
+	margin-bottom: 20px;
+}
+.footer-top {
+    padding: 50px 0 30px;
+}
+}
+
+@media (max-width: 600px) {
+.main-banner-inner .main-banner-detail p.main-banner-text {
+    font-size: 0;
+    margin-bottom: 0;
+    width: 0;
+}
+.main-banner-inner .main-banner-detail h1 {
+    margin-bottom: 0;
+}
+.main-banner-detail {
+    margin-right: 27px;
+    padding: 19px 64px 0 21px;
+}
+.paralex-title {
+    font-size: 30px;
+    margin: 0;
+}
+}
+
+@media only screen and (min-width: 420px) and (max-width: 767px) {
+
+}
+@media (max-width: 575px){
+.container {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.ad-banner1 h2,.ad-banner2 h2 {
+	font-size: 20px;
+    line-height: 27px;
+    
+}
+.ad-banner1 h2{
+	margin-bottom: 14px;
+}
+.ad-banner2 h2{
+	margin-bottom: 3px;
+}
+.ad-banner2 p {
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+}
+@media (max-width: 500px){
+.mheader-right-side a span{
+	height: 35px;
+	width: 35px;
+}
+.mheader-right-side a span.search {
+    background-position: -6px -65px;
+}
+.cart-main .cart-icon span {
+    background-position: -9px -128px;
+}
+.cart-main:hover .cart-icon span {
+    background-position: -8px -161px;
+}
+.mheader-right-side a span.search:hover {
+    background-position: -5px -96px;
+}
+.cart-detail p{
+	font-size: 0px;
+}
+.side-toggle-menu button{
+	padding: 7px 11px;
+}
+.mheader-right-side {
+    padding-right: 34px;
+}
+.banner.owl-carousel .owl-nav button.owl-next, .banner.owl-carousel .owl-nav button.owl-prev {
+	display: none;
+}
+.new-arrival-tab .tab-stap li a {
+    padding: 8px 12px;
+}
+.owl-carousel .owl-item img {
+    display: unset;
+    width: auto;
+}
+.cart-main::after {
+    right: 21px;
+}
+}
+
+@media (max-width: 419px){
+.top-header-side ul li {
+    padding: 0 9px;
+}
+.main-banner-inner .main-banner-detail h1 {
+    font-size: 21px;
+    line-height: 27px;
+}
+.main-banner-detail {
+    padding: 13px 64px 0 18px;
+}
+.new-arrival-tab .tab-stap li a {
+    padding: 5px 7px;
+    text-transform: capitalize;
+}
+.ad-banner-sub a{
+	display: none;
+}
+.feature-sub-icon {
+    float: none;
+}
+.feature-sub-detail {
+    padding:0px;
+    text-align: center;
+}
+.blog-sub{
+		width: 100%;
+}
+.newsletter-title {
+    font-size: 18px;
+}
+.cart-hover{
+	padding: 18px;
+	width: 258px;
+}
+.input-text.qty {
+    margin: 0px;
+    max-width: 44px;
+}
+}

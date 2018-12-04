@@ -1,0 +1,100 @@
+FOR PSD:
+
+
+background repeat karva mate jema background joy che ane ani ji background joy che ane selection thi select kri shift + F5 press kri content aware ok karvanu.(jo image convert to smart object hoy to a n thay)
+
+ane jo image smart object hoy to new page laine image na layer ne double click kri etle bija page ma khule etle ama change kri ne ctrl+s kri etle image ma change thy jay.  ane pachi ane ani jagya a muki sakay.
+
+image ne black and white karva mate ctrl + shift + u.
+
+image no amuk part blur karva mate ak shape ana par laine ano color set krine fill 0 api devano ane shape layer ne double click kri gradiant overlay ma jaine gradiant ne double click kri ama upar na pointer ma opacity apvani , ak ne 0 ane bija ne 100 opacity apvani. 
+
+text na shape change karva ane smart object banavi ama change thay.
+
+keyboard thi menu select karav alt key
+
+f for normal screen
+
+ctrl+{ for layer up and down 
+
+psd- photo shop document for 30000px
+
+psb- photo shop big for above 30000px
+
+vadhu layer ak sathe merge karva ctrl+e (ak layer ma convert karva)
+
+----------------------------------------------------------------------------------------------------------------
+FOR HTML:
+
+owl-carosoul use karva owl carousel demo type karvu google ma ane amathi use karvu
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+FOR CSS:
+jo koi div vadharani space letu hoy to ama jo display inline-block hoy to kadhi nakhavu. 
+
+display block - none value api to ane transition value n lage
+
+koi part ne z-index n lagti hoy to ane position relative api to thy jase
+
+menu ma li ne j hover effect apvi
+
+koi part ni space n batavta hoy to ane display inline-block apvathi thy jase
+
+sprite image ma hover ma transition apel hoy to image  dhimethi fare 
+
+last child ane first child ma css api te work n krti hoy to check karvanu k jene css api chi te badha ak j class ma che ne(baju baju ma hovu)badha no parent class ak j hovo joy
+
+a tag ni andar span apelu hoy ane jo sarkhi rite n avtu hoy to float left apvanu
+
+li ne always float left j apvu display inline-block karta
+
+jo a tag ni andar span icon lidho hoy ane dispaly ma icon thodo upar avto hoy atag na text karta to
+span ne flot left apvu
+
+jo column mathi padding 0 kri tyare row ma margin 0 karvanu j.
+
+jo koi element ne opacity 0 api ane space roktu hoy to ane position absolute apvi ane jo e agal nade m hoy to width 0 kri float left apvani rit karvi
+
+opacity ane visibilty ma element space roke
+display none ma space n roke
+
+-------------------------------------------------------------------------------------------------------
+sublime
+
+line number search karva ctrl+g.
+code search karva ctrl+f.
+code search and replace karva ctrl+shft+f
+
+
+
+
+
+
+
+https://fontawesome.com/v4.7.0/cheatsheet/
+
+
+directory site reference:breges
+
+
+aaryaweb
+webcotheme
+
+
+
+
+html?----Full form of the html is hyper text markup language which is used to define the structure of the web page
+
+css?----Full form of the css is cascading style sheet which describes how html elements are to be displayed on screen
+
+html html5?----html5 supports the audio and video
+			   html doesn't allow java script to run within web browser
+			   html5 provide full support for js to run in background
+			   html5 introduces the new kind of form controls like date, time, email, number, range search
+
